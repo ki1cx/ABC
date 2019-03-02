@@ -1,6 +1,6 @@
 import { add, minus } from '.';
-import * as addTestData from './fixtures/add';
-import * as minusTestData from './fixtures/minus';
+import * as addTestData from '../fixtures/add/data';
+import * as minusTestData from '../fixtures/minus/data';
 
 describe('test math functions', () => {
   it('should add', () => {
