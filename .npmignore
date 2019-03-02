@@ -1,0 +1,6 @@
+test
+src
+coverage
+.eslintignore
+.eslintrc.json
+.npmignore
