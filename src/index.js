@@ -1,8 +1,6 @@
-export const add = () => {
-};
+export const add = (a, b) => a + b;
 
-export const minus = () => {
-};
+export const minus = (a, b) => a - b;
 
 export default {
   add,
